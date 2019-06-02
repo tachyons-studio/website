@@ -1,0 +1,15 @@
+---
+title: Tachyons Studio
+timezone: Europe/London
+description: HTML components for Tachyons CSS
+
+# Build settings
+markdown: kramdown
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+### exclude the instructions / write-up in the README.md
+exclude:
+- README.md
