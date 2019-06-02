@@ -1,0 +1,11 @@
+a:hover {
+    border-bottom: 0;
+  }
+
+a:active, a:focus {
+    transition: none;
+    outline-width: 2px;
+    outline-style: dotted;
+    outline-color: #ffd308;
+    outline-offset: 3px;
+  }
