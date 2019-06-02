@@ -1,2 +1,2 @@
-# website
-Website for Tachyons Studio
+# tachyons-components
+Components for Tachyons CSS
